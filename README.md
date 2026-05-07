@@ -13,15 +13,15 @@ Download ZIP
 git clone
 ```
 
-All data comes from the Internet and is for learning purposes only!
+All data comes from Internet and is for learning purposes only!
 
 ## Update Status
 
-- Last update at: 2026-05-07 08:44:00 (CST, UTC+08:00)
+- Last update at: 2026-05-07 09:34:25 (CST, UTC+08:00)
 - Last data summary:
 
 ```
-2026-05-07 08:44:00
+2026-05-07 09:34:25
 ```
 
 - Report: Monthly Create, Daily Update
@@ -40,21 +40,19 @@ You can use this repo by access the following link:
 | Source     | Count  |
 |------------|--------|
 | douban     | 31     |
-| imdb       | 5      |
-| tmdb/movie | 3      |
-| tmdb/tv    | 1      |
-| melon      | 1      |
-| **Total**  | **41** |
+| imdb     | 7     |
+| melon     | 1     |
+| tmdb     | 4     |
+| **Total**  | **43** |
 
 ### Data Format
 
 The exported JSON format content is basically the same as that provided by the original APIs.
 
 - The fields such as error, copyright, version, format are not provided in the exported file.
-- The value format of some fields may vary in the export, This is mainly due to the update of scraping and outdated crawling cache.
+- The value format of some fields may vary in the export, This is mainly due to update of scraping and outdated crawling cache.
 
 If there is no corresponding site data in current static export, you may try to access the original APIs as fallback to auto-generate it.
-
 
 ## About
 
@@ -63,4 +61,4 @@ A comprehensive movie and TV database collection from multiple sources including
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under MIT License - see the [LICENSE](LICENSE) file for details.
