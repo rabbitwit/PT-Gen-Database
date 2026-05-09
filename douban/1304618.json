@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "site": "douban",
+  "douban_link": "https://movie.douban.com/subject/1304618/",
+  "poster": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2204663652.jpg",
+  "chinese_title": "老虎出更2",
+  "year": "1990",
+  "douban_rating_average": 6.1,
+  "douban_rating": "6.1",
+  "douban_votes": 2889,
+  "aka": [
+    "Tiger on the Beat II"
+  ],
+  "region": [
+    "中国香港"
+  ],
+  "language": [
+    "英语",
+    "粤语"
+  ],
+  "genre": [
+    "动作"
+  ],
+  "playdate": [
+    "1990-05-01(中国香港)"
+  ],
+  "duration": "94 分钟",
+  "description": "林益当年差多年，仍是散仔一名，心有不甘，时欲“发围”。此时林的外甥水牛从美国回来渡假，因帮助在酒吧邂逅的席梦思。因而令林、思及自己卷入一宗侵吞军火交易的罪行之中……",
+  "imdb_rating_average": "5.8",
+  "imdb_votes": "205",
+  "imdb_rating": "5.8 / 10 from 205 users",
+  "director": [
+    {
+      "name": "刘家良 Kar-Leung Lau",
+      "link": "https://www.douban.com/personage/27492138/",
+      "role": "导演 Director",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p53157.webp"
+    },
+    {
+      "name": "缪健德 Kin-Tak Mou",
+      "link": "https://www.douban.com/personage/27484688/",
+      "role": "副导演 Assistant Director",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1614007363.27.webp"
+    }
+  ],
+  "writer": [
+    {
+      "name": "张丽玲 Lai Ling Cheung",
+      "link": "https://www.douban.com/personage/34456870/",
+      "role": "编剧 Writer",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "黄浩义 Kelvin Wong Ho-Yee",
+      "link": "https://www.douban.com/personage/36785401/",
+      "role": "编剧 Writer",
+      "avatar": "https://img2.doubanio.com/view/personage/m/public/3acc03844dac3e2d13546d3deab92e31.jpg"
+    }
+  ],
+  "cast": [
+    {
+      "name": "李修贤 Danny Lee",
+      "link": "https://www.douban.com/personage/27231185/",
+      "role": "演员 Actor (饰 林益年)",
+      "avatar": "https://img9.doubanio.com/view/personage/m/public/0636caa3e9ad0ffc130acf8ec0ee8994.jpg"
+    },
+    {
+      "name": "陈雅伦 Ellen Chan",
+      "link": "https://www.douban.com/personage/27211314/",
+      "role": "演员 Actress (饰 席梦思)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p52792.webp"
+    },
+    {
+      "name": "张耀扬 Roy Cheung",
+      "link": "https://www.douban.com/personage/27218443/",
+      "role": "演员 Actor (饰 辉少手下)",
+      "avatar": "https://img2.doubanio.com/view/celebrity/m/public/p1490967174.11.webp"
+    },
+    {
+      "name": "李元霸 Conan Lee",
+      "link": "https://www.douban.com/personage/27500008/",
+      "role": "演员 Actor (饰 水牛)",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p21314.webp"
+    },
+    {
+      "name": "刘家辉 Chia Hui Liu",
+      "link": "https://www.douban.com/personage/27327128/",
+      "role": "演员 Actor (饰 辉少)",
+      "avatar": "https://img3.doubanio.com/view/personage/m/public/d6204e1f9b0d758db74e6015b6b7ead7.jpg"
+    },
+    {
+      "name": "玛利亚 Maria Cordero",
+      "link": "https://www.douban.com/personage/27509556/",
+      "role": "演员 Actress (饰 maria)",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p40556.webp"
+    },
+    {
+      "name": "黄霑 James Wong",
+      "link": "https://www.douban.com/personage/27213782/",
+      "role": "演员 Actor (饰 黄SIR)",
+      "avatar": "https://img3.doubanio.com/img/musician/medium/22.jpg"
+    },
+    {
+      "name": "徐少强 Norman Chu",
+      "link": "https://www.douban.com/personage/27254230/",
+      "role": "演员 Actor (饰 徐SIR)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1384913034.2.webp"
+    },
+    {
+      "name": "麦德罗 Te-Lo Mai",
+      "link": "https://www.douban.com/personage/27556908/",
+      "role": "演员 Actor (饰 蛇仔明)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1369810175.63.webp"
+    },
+    {
+      "name": "李殿朗 Margaret Lee Din-Long",
+      "link": "https://www.douban.com/personage/27548755/",
+      "role": "演员 Actress (饰 大姐明)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p43012.webp"
+    },
+    {
+      "name": "黄锦燊 Melvin Wong",
+      "link": "https://www.douban.com/personage/27243196/",
+      "role": "演员 Actor (饰 Melvin)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p3433.webp"
+    },
+    {
+      "name": "张午郎 John Cheung",
+      "link": "https://www.douban.com/personage/27496542/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/celebrity/m/public/p1546440668.0.webp"
+    },
+    {
+      "name": "高飞 Phillip Ko",
+      "link": "https://www.douban.com/personage/27566733/",
+      "role": "演员 Actor",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p1415261923.24.webp"
+    },
+    {
+      "name": "林伟健 Oscar Lam Wai-Kin",
+      "link": "https://www.douban.com/personage/27494370/",
+      "role": "演员 Actor (饰 警察)",
+      "avatar": "https://img1.doubanio.com/view/celebrity/m/public/p41668.webp"
+    },
+    {
+      "name": "麦鹤顿 Houghton Mark",
+      "link": "https://www.douban.com/personage/27561279/",
+      "role": "演员 Actor",
+      "avatar": "https://img2.doubanio.com/view/celebrity/m/public/p1487644648.61.webp"
+    },
+    {
+      "name": "夏占士 James Ha",
+      "link": "https://www.douban.com/personage/27484294/",
+      "role": "演员 Actor (饰 打手)",
+      "avatar": "https://img1.doubanio.com/view/celebrity/m/public/p1440133249.9.webp"
+    },
+    {
+      "name": "熊欣欣 Xinxin Xiong",
+      "link": "https://www.douban.com/personage/27238831/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/4314aef3ab9ea6d732edfb75bfad0f68.jpg"
+    },
+    {
+      "name": "林燕明 Yin-Ming Lam",
+      "link": "https://www.douban.com/personage/30262338/",
+      "role": "演员 Actress (饰 Helen)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1530520574.97.webp"
+    },
+    {
+      "name": "李绮霞 Yee Ha Lee",
+      "link": "https://www.douban.com/personage/27559694/",
+      "role": "演员 Actress (饰 loel)",
+      "avatar": "https://img9.doubanio.com/view/personage/m/public/faeb0ee11b8bc136fbac7d5f50040d05.jpg"
+    },
+    {
+      "name": "詹秉熙 Bing Hei Chim",
+      "link": "https://www.douban.com/personage/27487527/",
+      "role": "演员 Actor (饰 拖车司机)",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p29522.webp"
+    },
+    {
+      "name": "徐宝华 Ridley Tsui",
+      "link": "https://www.douban.com/personage/27220087/",
+      "role": "演员 Actor",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p18037.webp"
+    },
+    {
+      "name": "韩丽芬 Li-Fen Han",
+      "link": "https://www.douban.com/personage/33455408/",
+      "role": "演员 Actress",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/456c360a0600136ef037f00a4ebbb1e9.jpg"
+    },
+    {
+      "name": "王文成 Man Shing Wong",
+      "link": "https://www.douban.com/personage/34451310/",
+      "role": "演员 Actor",
+      "avatar": "https://img9.doubanio.com/view/personage/m/public/2eb53a2d5f68aec4bb1ce6a5c994f996.jpg"
+    },
+    {
+      "name": "张兆 Cheung Siu",
+      "link": "https://www.douban.com/personage/35982168/",
+      "role": "演员 Actor",
+      "avatar": "https://img9.doubanio.com/view/personage/m/public/2a66f650bca3284e07b8a9b2b3cb38a5.jpg"
+    },
+    {
+      "name": "王志文 Chi Man Wong",
+      "link": "https://www.douban.com/personage/35915022/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/69cd7c8035b3dc749e395a1622ae6070.jpg"
+    },
+    {
+      "name": "郭彼得 Peter Kwok",
+      "link": "https://www.douban.com/personage/36717467/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/0b3620c476a2abe9d6ac07de1e56cc6b.jpg"
+    },
+    {
+      "name": "陈树帜 Shu Gei Chan",
+      "link": "https://www.douban.com/personage/34438158/",
+      "role": "演员 Actor",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1560920012.62.webp"
+    },
+    {
+      "name": "郑志豪 Chi-Ho Cheng",
+      "link": "https://www.douban.com/personage/37427354/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/3576d966fc7e2f487b6055f4654059dd.jpg"
+    }
+  ],
+  "timestamp": "2026-05-09T10:21:57.259Z"
+}
