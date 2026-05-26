@@ -1,1 +1,127 @@
-{"site":"douban","sid":"36680667","success":true,"douban_link":"https://movie.douban.com/subject/36680667/","poster":"https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2932006694.jpg","chinese_title":"超能路人甲","foreign_title":"더 원더풀스","year":"2026","douban_rating":0,"douban_rating_average":0,"douban_votes":0,"aka":["The B-team","The Wonder Fools","奇才傻瓜","더 B팀"],"region":["韩国"],"language":["韩语"],"genre":["剧情","动作","科幻"],"playdate":["2026-05-15(韩国)"],"episodes":"8","duration":"70分钟","description":"该剧是根据斯坦·李的漫画故事构思创作的韩式英雄剧。讲述世界末日论得势的99年，因为意外事件得到超能力的小区傻瓜们与威胁海城市的坏蛋对抗，发生的超能力搞笑动作冒险剧。","imdb_rating_average":"8.2","imdb_votes":"149","imdb_rating":"8.2 / 10 from 149 users","director":[{"name":"刘仁值 In Sik Yoo","link":"https://www.douban.com/personage/27579147/","role":"导演 Director","avatar":"https://img1.doubanio.com/view/celebrity/m/public/p1494347754.58.webp"}],"writer":[{"name":"许大中 Da-joong Heo","link":"https://www.douban.com/personage/38191103/","role":"编剧 Writer","avatar":"https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"}],"cast":[{"name":"朴恩斌 Eun-Bin Park","link":"https://www.douban.com/personage/27495066/","role":"演员 Actress","avatar":"https://img9.doubanio.com/view/personage/m/public/1acc50163630da923092448e7e4c32f6.jpg"},{"name":"车银优 Cha Eun-Woo","link":"https://www.douban.com/personage/27554600/","role":"演员 Actor","avatar":"https://img9.doubanio.com/view/celebrity/m/public/p1597063982.25.webp"},{"name":"金海淑 Hae-suk Kim","link":"https://www.douban.com/personage/27221015/","role":"演员 Actress","avatar":"https://img2.doubanio.com/view/celebrity/m/public/p1604600949.1.webp"},{"name":"孙贤周 Hyun-joo Son","link":"https://www.douban.com/personage/27483747/","role":"演员 Actor","avatar":"https://img1.doubanio.com/view/celebrity/m/public/p59220.webp"},{"name":"林成宰 Sung-jae Im","link":"https://www.douban.com/personage/35202615/","role":"演员 Actor","avatar":"https://img3.doubanio.com/view/celebrity/m/public/p1600604229.37.webp"},{"name":"崔大勋 Dae-hoon Choi","link":"https://www.douban.com/personage/27610269/","role":"演员 Actor","avatar":"https://img1.doubanio.com/view/personage/m/public/cff54fd49dd14af748d2f7977178820c.jpg"},{"name":"裴奈拏 Na-ra Bae","link":"https://www.douban.com/personage/36494766/","role":"演员 Actor","avatar":"https://img9.doubanio.com/view/personage/m/public/f10073f1f9d43c25c6c29a1447d8dc46.jpg"}],"imdb_link":"https://www.imdb.com/title/tt34440854/","timestamp":"2026-05-16T08:38:35.217Z"}
+{
+  "site": "douban",
+  "sid": "36680667",
+  "imdb_id": "tt34440854",
+  "imdb_link": "https://www.imdb.com/title/tt34440854/",
+  "douban_link": "https://movie.douban.com/subject/36680667/",
+  "chinese_title": "超能路人甲",
+  "foreign_title": "원더풀스",
+  "year": "2026",
+  "aka": [
+    "The B-team",
+    "The WONDERfools",
+    "奇才傻瓜",
+    "더 B팀",
+    "더 원더풀스"
+  ],
+  "region": [
+    "韩国"
+  ],
+  "genre": [
+    "剧情",
+    "喜剧",
+    "动作",
+    "科幻",
+    "冒险"
+  ],
+  "language": [
+    "韩语"
+  ],
+  "playdate": [
+    "2026-05-15(韩国)"
+  ],
+  "episodes": "8",
+  "duration": "70分钟",
+  "description": "该剧是根据斯坦·李的漫画故事构思创作的韩式英雄剧。讲述世界末日论得势的99年，因为意外事件得到超能力的小区傻瓜们与威胁海城市的坏蛋对抗，发生的超能力搞笑动作冒险剧。",
+  "poster": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2932475248.jpg",
+  "douban_votes": "11291",
+  "douban_rating": "7.1",
+  "imdb_rating_average": "7.8",
+  "imdb_votes": "2915",
+  "imdb_rating": "7.8 / 10 from 2,915 users",
+  "director": [
+    {
+      "name": "刘仁值 In Sik Yoo",
+      "link": "https://www.douban.com/personage/27579147/",
+      "role": "导演 Director",
+      "avatar": "https://img1.doubanio.com/view/celebrity/m/public/p1494347754.58.webp"
+    }
+  ],
+  "writer": [
+    {
+      "name": "许大中 Da-joong Heo",
+      "link": "https://www.douban.com/personage/38191103/",
+      "role": "编剧 Writer",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "姜银庆 Eun-kyung Kang",
+      "link": "https://www.douban.com/personage/27566157/",
+      "role": "创作者 Creator",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p59254.webp"
+    }
+  ],
+  "cast": [
+    {
+      "name": "朴恩斌 Eun-Bin Park",
+      "link": "https://www.douban.com/personage/27495066/",
+      "role": "演员 Actress",
+      "avatar": "https://img9.doubanio.com/view/personage/m/public/1acc50163630da923092448e7e4c32f6.jpg"
+    },
+    {
+      "name": "车银优 Cha Eun-Woo",
+      "link": "https://www.douban.com/personage/27554600/",
+      "role": "演员 Actor",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p1597063982.25.webp"
+    },
+    {
+      "name": "崔大勋 Dae-hoon Choi",
+      "link": "https://www.douban.com/personage/27610269/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/cff54fd49dd14af748d2f7977178820c.jpg"
+    },
+    {
+      "name": "林成宰 Sung-jae Im",
+      "link": "https://www.douban.com/personage/35202615/",
+      "role": "演员 Actor",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1600604229.37.webp"
+    },
+    {
+      "name": "金海淑 Hae-suk Kim",
+      "link": "https://www.douban.com/personage/27221015/",
+      "role": "演员 Actress",
+      "avatar": "https://img2.doubanio.com/view/celebrity/m/public/p1604600949.1.webp"
+    },
+    {
+      "name": "孙贤周 Hyun-joo Son",
+      "link": "https://www.douban.com/personage/27483747/",
+      "role": "演员 Actor",
+      "avatar": "https://img1.doubanio.com/view/celebrity/m/public/p59220.webp"
+    },
+    {
+      "name": "郑伊书 Yi-Seo Jung",
+      "link": "https://www.douban.com/personage/34866700/",
+      "role": "演员 Actress",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p1600823513.54.webp"
+    },
+    {
+      "name": "崔允智 Yun-ji Choi",
+      "link": "https://www.douban.com/personage/37194757/",
+      "role": "演员 Actress",
+      "avatar": "https://img1.doubanio.com/view/personage/m/public/e31ea83c165be72dd2acc1983d9d929b.jpg"
+    },
+    {
+      "name": "裴奈拏 Na-ra Bae",
+      "link": "https://www.douban.com/personage/36494766/",
+      "role": "演员 Actor",
+      "avatar": "https://img9.doubanio.com/view/personage/m/public/f10073f1f9d43c25c6c29a1447d8dc46.jpg"
+    },
+    {
+      "name": "金施温 Si-On Kim",
+      "link": "https://www.douban.com/personage/38479503/",
+      "role": "饰 殷彩馜",
+      "avatar": "https://img3.doubanio.com/view/personage/m/public/329f19de636c0ffde975714c87439de3.jpg"
+    }
+  ],
+  "success": true
+}
