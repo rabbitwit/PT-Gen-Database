@@ -1,1 +1,144 @@
-{"site":"douban","sid":"37125051","imdb_id":"tt36154132","imdb_link":"https://www.imdb.com/title/tt36154132/","douban_link":"https://movie.douban.com/subject/37125051/","chinese_title":"小鬼封神","foreign_title":"Altar Boys","year":"2025","aka":["Ministranci"],"region":["波兰"],"genre":["剧情"],"language":["波兰语"],"playdate":["2025-09-24(格丁尼亚波兰电影节)"],"episodes":"","duration":"110分钟","description":"一天，四个十几岁的少年敲开了告解箱，了解了邻居们的种种“罪过”后，决定自行伸张正义。当然，他们很快发现事情并非非黑即白，上帝的话语也有不同的解读方式。这部电影被形容为“充满讽刺与反叛”。","poster":"https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2925760585.jpg","douban_votes":"0","douban_rating":"0.0","imdb_rating_average":"6.9","imdb_votes":"994","imdb_rating":"6.9 / 10 from 994 users","director":[{"name":"彼得亚雷·多玛列夫斯基 Piotr Domalewski","link":"https://www.douban.com/personage/30247067/","role":"导演 Director","avatar":"https://img3.doubanio.com/view/celebrity/m/public/p1528883819.7.webp"}],"writer":[{"name":"彼得亚雷·多玛列夫斯基 Piotr Domalewski","link":"https://www.douban.com/personage/30247067/","role":"编剧 Writer","avatar":"https://img3.doubanio.com/view/celebrity/m/public/p1528883819.7.webp"}],"cast":[],"success":true}
+{
+  "site": "douban",
+  "sid": "37125051",
+  "imdb_id": "tt36154132",
+  "imdb_link": "https://www.imdb.com/title/tt36154132/",
+  "douban_link": "https://movie.douban.com/subject/37125051/",
+  "chinese_title": "小鬼封神",
+  "foreign_title": "Ministranci",
+  "year": "2025",
+  "aka": [
+    "Altar Boys"
+  ],
+  "region": [
+    "波兰"
+  ],
+  "genre": [
+    "剧情",
+    "喜剧"
+  ],
+  "language": [
+    "波兰语"
+  ],
+  "playdate": [
+    "2025-09-24(格丁尼亚波兰电影节)"
+  ],
+  "episodes": "",
+  "duration": "106分钟",
+  "description": "一天，四个十几岁的少年敲开了告解箱，了解了邻居们的种种“罪过”后，决定自行伸张正义。当然，他们很快发现事情并非非黑即白，上帝的话语也有不同的解读方式。这部电影被形容为“充满讽刺与反叛”。",
+  "poster": "https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2925760585.jpg",
+  "douban_votes": "0",
+  "douban_rating": "0.0",
+  "imdb_rating_average": "6.9",
+  "imdb_votes": "1000",
+  "imdb_rating": "6.9 / 10 from 1,000 users",
+  "director": [
+    {
+      "name": "彼得亚雷·多玛列夫斯基 Piotr Domalewski",
+      "link": "https://www.douban.com/personage/30247067/",
+      "role": "导演 Director",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1528883819.7.webp"
+    }
+  ],
+  "writer": [
+    {
+      "name": "彼得亚雷·多玛列夫斯基 Piotr Domalewski",
+      "link": "https://www.douban.com/personage/30247067/",
+      "role": "编剧 Writer",
+      "avatar": "https://img3.doubanio.com/view/celebrity/m/public/p1528883819.7.webp"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Tobiasz Wajda Tobiasz Wajda",
+      "link": "https://www.douban.com/personage/38487533/",
+      "role": "饰 Filip",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Bruno Blach-Baar Bruno Blach-Baar",
+      "link": "https://www.douban.com/personage/38487534/",
+      "role": "饰 Gucci",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Mikolaj Juszczyk Mikolaj Juszczyk",
+      "link": "https://www.douban.com/personage/38487535/",
+      "role": "饰 Chicken",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Filip Juszczyk Filip Juszczyk",
+      "link": "https://www.douban.com/personage/38487536/",
+      "role": "饰 Small Chicken",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Daria Kalinchuk Daria Kalinchuk",
+      "link": "https://www.douban.com/personage/36906116/",
+      "role": "演员 Actor/Actress",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "斯莱沃米尔·奥奇斯基 Slawomir Orzechowski",
+      "link": "https://www.douban.com/personage/27339214/",
+      "role": "演员 Actor",
+      "avatar": "https://img9.doubanio.com/view/celebrity/m/public/p4846.webp"
+    },
+    {
+      "name": "托马斯·舒查特 Tomasz Schuchardt",
+      "link": "https://www.douban.com/personage/27572231/",
+      "role": "演员 Actor",
+      "avatar": "https://img3.doubanio.com/view/personage/m/public/ec1d6d1df9e23d368ea798fa37982e5f.jpg"
+    },
+    {
+      "name": "卡米拉·乌尔泽多夫斯卡 Kamila Urzedowska",
+      "link": "https://www.douban.com/personage/36492161/",
+      "role": "演员 Actress",
+      "avatar": "https://img3.doubanio.com/view/personage/m/public/7b57fdd8a742a4a3cc14329c3de0e7d2.jpg"
+    },
+    {
+      "name": "Artur Paczesny Artur Paczesny",
+      "link": "https://www.douban.com/personage/37087752/",
+      "role": "演员 Actor/Actress",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Katarzyna Pietruska Katarzyna Pietruska",
+      "link": "https://www.douban.com/personage/38487537/",
+      "role": "饰 Dominika's mother",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Dominika Bednarczyk Dominika Bednarczyk",
+      "link": "https://www.douban.com/personage/27267811/",
+      "role": "演员 Actor/Actress",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Michal Majnicz Michal Majnicz",
+      "link": "https://www.douban.com/personage/36906184/",
+      "role": "演员 Actor/Actress",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Karolina Adamczyk Karolina Adamczyk",
+      "link": "https://www.douban.com/personage/37082025/",
+      "role": "演员 Actor/Actress",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Krzysztof Ogloza Krzysztof Ogloza",
+      "link": "https://www.douban.com/personage/27396764/",
+      "role": "演员 Actor/Actress",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    },
+    {
+      "name": "Adam Gasecki Adam Gasecki",
+      "link": "https://www.douban.com/personage/38487538/",
+      "role": "饰 Vicar",
+      "avatar": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+    }
+  ],
+  "success": true
+}
