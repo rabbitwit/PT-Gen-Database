@@ -17,11 +17,11 @@ All data comes from Internet and is for learning purposes only!
 
 ## Update Status
 
-- Last update at: 2026-07-04 13:32:35 (CST, UTC+08:00)
+- Last update at: 2026-07-05 00:05:44 (CST, UTC+08:00)
 - Last data summary:
 
 ```
-2026-07-04 13:32:35
+2026-07-05 00:05:44
 ```
 
 - Report: Monthly Create, Daily Update
@@ -40,7 +40,7 @@ You can use this repo by access the following link:
 | Source     | Count  |
 |------------|--------|
 | bangumi     | 7     |
-| douban     | 1046     |
+| douban     | 1053     |
 | douban_book     | 1     |
 | hongguo     | 2     |
 | imdb     | 248     |
@@ -49,7 +49,7 @@ You can use this repo by access the following link:
 | steam     | 29     |
 | tmdb     | 124     |
 | trakt     | 106     |
-| **Total**  | **1567** |
+| **Total**  | **1574** |
 
 ### Data Format
 
