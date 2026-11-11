@@ -17,11 +17,11 @@ All data comes from Internet and is for learning purposes only!
 
 ## Update Status
 
-- Last update at: 2026-11-11 20:27:12 (CST, UTC+08:00)
+- Last update at: 2026-11-11 20:52:58 (CST, UTC+08:00)
 - Last data summary:
 
 ```
-2026-11-11 20:27:12
+2026-11-11 20:52:58
 ```
 
 - Report: Monthly Create, Daily Update
@@ -33,7 +33,9 @@ You can use this repo by access the following link:
 | Provider     | Status | Link Format                                                     | Note               |
 |--------------|--------|-----------------------------------------------------------------|--------------------|
 | Local Files  | Static | `./<site>/<sid>.json`                                           | Direct file access |
-| GitHub Pages | Static | `https://rabbitwit.github.io/PT-Gen-Database/<site>/<sid>.json` | Web access         |
+| GitHub Raw   | Static | `https://raw.githubusercontent.com/rabbitwit/PT-Gen-Database/main/<site>/<sid>.json` | Web access         |
+
+GitHub Pages is disabled to avoid deploy failures on large archives.
 
 ### Source SiteCount
 

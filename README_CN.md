@@ -17,11 +17,11 @@ git clone
 
 ## 更新状态
 
-- 最后更新时间：2026-11-11 20:27:12 (CST, UTC+08:00)
+- 最后更新时间：2026-11-11 20:52:58 (CST, UTC+08:00)
 - 最后数据摘要：
 
 ```
-2026-11-11 20:27:12
+2026-11-11 20:52:58
 ```
 
 - 报告：月度创建，每日更新
@@ -33,7 +33,9 @@ git clone
 | 提供商          | 状态 | 链接格式                                                            | 备注     |
 |--------------|----|-----------------------------------------------------------------|--------|
 | 本地文件         | 静态 | `./<site>/<sid>.json`                                           | 直接文件访问 |
-| GitHub Pages | 静态 | `https://rabbitwit.github.io/PT-Gen-Database/<site>/<sid>.json` | 网页访问   |
+| GitHub Raw   | 静态 | `https://raw.githubusercontent.com/rabbitwit/PT-Gen-Database/main/<site>/<sid>.json` | 网页访问   |
+
+已关闭 GitHub Pages，避免超大静态仓库部署失败。
 
 ### 数据源统计
 
