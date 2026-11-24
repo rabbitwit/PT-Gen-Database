@@ -30,28 +30,28 @@ All data comes from Internet and is for learning purposes only!
 
 You can use this repo by access the following link:
 
-| Provider     | Status | Link Format                                                     | Note               |
-|--------------|--------|-----------------------------------------------------------------|--------------------|
-| Local Files  | Static | `./<site>/<sid>.json`                                           | Direct file access |
-| GitHub Raw   | Static | `https://raw.githubusercontent.com/rabbitwit/PT-Gen-Database/main/<site>/<sid>.json` | Web access         |
+| Provider    | Status | Link Format                                                                          | Note               |
+|-------------|--------|--------------------------------------------------------------------------------------|--------------------|
+| Local Files | Static | `./<site>/<sid>.json`                                                                | Direct file access |
+| GitHub Raw  | Static | `https://raw.githubusercontent.com/rabbitwit/PT-Gen-Database/main/<site>/<sid>.json` | Web access         |
 
 GitHub Pages is disabled to avoid deploy failures on large archives.
 
 ### Source SiteCount
 
-| Source     | Count  |
-|------------|--------|
-| bangumi     | 51     |
-| douban     | 5107     |
-| douban_book     | 5     |
-| hongguo     | 2     |
-| imdb     | 509     |
-| melon     | 3     |
-| qq_music     | 5     |
-| steam     | 69     |
-| tmdb     | 208     |
-| trakt     | 108     |
-| **Total**  | **6067** |
+| Source      | Count    |
+|-------------|----------|
+| bangumi     | 51       |
+| douban      | 5107     |
+| douban_book | 5        |
+| hongguo     | 2        |
+| imdb        | 509      |
+| melon       | 3        |
+| qq_music    | 5        |
+| steam       | 69       |
+| tmdb        | 208      |
+| trakt       | 108      |
+| **Total**   | **6067** |
 
 ### Data Format
 

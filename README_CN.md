@@ -30,28 +30,28 @@ git clone
 
 您可以通过以下链接访问此仓库：
 
-| 提供商          | 状态 | 链接格式                                                            | 备注     |
-|--------------|----|-----------------------------------------------------------------|--------|
-| 本地文件         | 静态 | `./<site>/<sid>.json`                                           | 直接文件访问 |
-| GitHub Raw   | 静态 | `https://raw.githubusercontent.com/rabbitwit/PT-Gen-Database/main/<site>/<sid>.json` | 网页访问   |
+| 提供商        | 状态 | 链接格式                                                                                 | 备注     |
+|------------|----|--------------------------------------------------------------------------------------|--------|
+| 本地文件       | 静态 | `./<site>/<sid>.json`                                                                | 直接文件访问 |
+| GitHub Raw | 静态 | `https://raw.githubusercontent.com/rabbitwit/PT-Gen-Database/main/<site>/<sid>.json` | 网页访问   |
 
 已关闭 GitHub Pages，避免超大静态仓库部署失败。
 
 ### 数据源统计
 
-| 数据源        | 数量     |
-|------------|--------|
-| bangumi        | 51     |
-| douban        | 5107     |
-| douban_book        | 5     |
-| hongguo        | 2     |
-| imdb        | 509     |
-| melon        | 3     |
-| qq_music        | 5     |
-| steam        | 69     |
-| tmdb        | 208     |
-| trakt        | 108     |
-| **总计**     | **6067** |
+| 数据源         | 数量       |
+|-------------|----------|
+| bangumi     | 51       |
+| douban      | 5107     |
+| douban_book | 5        |
+| hongguo     | 2        |
+| imdb        | 509      |
+| melon       | 3        |
+| qq_music    | 5        |
+| steam       | 69       |
+| tmdb        | 208      |
+| trakt       | 108      |
+| **总计**      | **6067** |
 
 ### 数据格式
 
