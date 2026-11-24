@@ -37,3 +37,7 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+scripts
+scripts/*
+.ohmyagent
+trakt/oauth
