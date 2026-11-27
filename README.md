@@ -17,11 +17,11 @@ All data comes from Internet and is for learning purposes only!
 
 ## Update Status
 
-- Last update at: 2026-11-27 00:15:28 (CST, UTC+08:00)
+- Last update at: 2026-11-27 14:28:53 (CST, UTC+08:00)
 - Last data summary:
 
 ```
-2026-11-27 00:15:28
+2026-11-27 14:28:53
 ```
 
 - Report: Monthly Create, Daily Update
@@ -41,11 +41,18 @@ GitHub Pages is disabled to avoid deploy failures on large archives.
 
 | Source     | Count  |
 |------------|--------|
-| douban     | 145     |
-| imdb     | 4     |
-| tmdb     | 1     |
-| trakt     | 1     |
-| **Total**  | **151** |
+| .gitignore     | 1     |
+| bangumi     | 52     |
+| douban     | 5397     |
+| douban_book     | 5     |
+| hongguo     | 2     |
+| imdb     | 518     |
+| melon     | 4     |
+| qq_music     | 6     |
+| steam     | 69     |
+| tmdb     | 212     |
+| trakt     | 110     |
+| **Total**  | **6376** |
 
 ### Data Format
 
